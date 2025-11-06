@@ -20,5 +20,11 @@
     <artifactId>applicationinsights</artifactId>
     <version>3.6.2</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.flink/flink-python -->
+<dependency>
+    <groupId>org.apache.flink</groupId>
+    <artifactId>flink-python</artifactId>
+    <version>1.18.0</version>
+</dependency>
   </dependencies>
 </project>
