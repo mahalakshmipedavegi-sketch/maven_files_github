@@ -14,5 +14,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+	<!-- https://mvnrepository.com/artifact/com.sonatype.central.testing.amazon/applicationinsights -->
+<dependency>
+    <groupId>com.sonatype.central.testing.amazon</groupId>
+    <artifactId>applicationinsights</artifactId>
+    <version>3.6.2</version>
+</dependency>
   </dependencies>
 </project>
